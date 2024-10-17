@@ -1,5 +1,5 @@
 provider "google" {
-  project = "juanvalencia"
+  project = "juanvalenci"
   region  = "us-west1"
   zone    = "us-west1-a"
 }
